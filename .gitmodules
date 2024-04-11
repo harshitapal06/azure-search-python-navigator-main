@@ -1,0 +1,3 @@
+[submodule "search-website-functions-v4"]
+	path = search-website-functions-v4
+	url = https://github.com/harshitapal06/azure-search-python-navigator-main
