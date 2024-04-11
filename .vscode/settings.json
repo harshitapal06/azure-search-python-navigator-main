@@ -5,6 +5,5 @@
     "azureFunctions.pythonVenv": ".venv",
     "azureFunctions.projectLanguage": "Python",
     "azureFunctions.projectRuntime": "~4",
-    "debug.internalConsoleOptions": "neverOpen",
-    "azureAutomation.directory.basePath": "c:\\Users\\gurveersingh01"
+    "debug.internalConsoleOptions": "neverOpen"
 }
